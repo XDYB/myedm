@@ -1,3 +1,4 @@
-####http://www.baidu.com####
-ZZZZ支付宝
-
+{
+  version:"1",
+  url:"https://www.baidu.com"
+}
